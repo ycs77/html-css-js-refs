@@ -56,7 +56,7 @@
 | 內容     | Emmet | CSS                  |
 | -------- | ----- | -------------------- |
 | 相對定位 | por   | position: relative;  |
-| 絕對定位 | poa   | dposition: absolute; |
+| 絕對定位 | poa   | position: absolute; |
 | 固定定位 | pof   | position: fixed;     |
 | 距離上方 | t100  | top: 100px;          |
 | 距離下方 | b100  | bottom: 100px;       |
